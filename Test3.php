@@ -2,7 +2,7 @@
 
 class Test3
 {
-    public function ShowMessage($msg)
+    public function Show($msg)
     {
         echo $msg;
         die;
