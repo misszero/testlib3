@@ -3,7 +3,7 @@
   "description": "my composer lib3.",
   "autoload": {
     "psr-4": {
-      "Test": "src/"
+      "Ford\\Escape\\": "src/Ford/Escape"
     }
   }
 }
